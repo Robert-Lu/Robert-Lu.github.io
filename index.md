@@ -21,7 +21,7 @@ Linear Algebra (95/100), Probability & Statistics (98/100), Optics & Atomic Phys
   * Researched the field of Crowd Simulation, and delved in path-planning algorithms and GPU acceleration
   * Learned CUDA technique, and combined GPU computation with open-source C++ library *SteerSuite*
 
-![Description Steer](https://robert-lu.github.io/image/desc_steer.png)
+![Description Steer](https://robert-lu.github.io/image/desc_steer.png){:height="100px"}
 
 ##### **Graphics & Geometric Computing Laboratory (GCL) at USTC** （Research Leader）
 
