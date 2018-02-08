@@ -21,7 +21,7 @@ Linear Algebra (95/100), Probability & Statistics (98/100), Optics & Atomic Phys
   * Researched the field of Crowd Simulation, and delved in path-planning algorithms and GPU acceleration
   * Learned CUDA technique, and combined GPU computation with open-source C++ library *SteerSuite*
 
-![Description Steer](https://robert-lu.github.io/image/desc_steer.png){:height="100px"}
+![Description Steer](https://robert-lu.github.io/image/desc_steer.png)
 
 ##### **Graphics & Geometric Computing Laboratory (GCL) at USTC** （Research Leader）
 
@@ -29,6 +29,7 @@ Linear Algebra (95/100), Probability & Statistics (98/100), Optics & Atomic Phys
 
 * Surface Reconstruction from Point-Cloud Data without Normal (*Nov 2017-Now*)
   * Implemented reconstruction method from point clouds data without normal information
+![Description Reconstruction](https://robert-lu.github.io/image/desc_steer.png)
 * Real Time Physics-Based Animation (*Jan 2017-June 2017*)
   * Implemented various physics-based simulation methods, including Mass Spring Systems, Finite Element Method
   * Designed framework to show 3D animation scenes with modern OpenGL and Qt GUI libruary
