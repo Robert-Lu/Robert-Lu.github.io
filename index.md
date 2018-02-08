@@ -46,8 +46,8 @@ Linear Algebra (95/100), Probability & Statistics (98/100), Optics & Atomic Phys
 
 ## SKILL SET
 
-**Programming Skills**: more than 7 years programming experience, solid expertise in C++ (>80k lines), experienced in Java, Python and OpenGL Shader Language (GLSL), adept in modern OpenGL pipeline, Qt GUI library,
-MATLAB and Linux
+**Programming Skills**: more than 7 years programming experience, solid expertise in C++ (>80k lines), experienced in Java, Python and OpenGL Shader Language (GLSL), adept in modern OpenGL pipeline, Qt GUI library, MATLAB and Linux
+
 **Mathematical Skills**: familiar with linear algebra and computational geometry, experienced in combining theory with practice
 
 ## RESEARCH INTEREST
