@@ -29,10 +29,15 @@ Linear Algebra (95/100), Probability & Statistics (98/100), Optics & Atomic Phys
 
 * Surface Reconstruction from Point-Cloud Data without Normal (*Nov 2017-Now*)
   * Implemented reconstruction method from point clouds data without normal information
-![Description Reconstruction](https://robert-lu.github.io/image/desc_steer.png)
+
+![Description Reconstruction](https://robert-lu.github.io/image/desc_recons.png)
+
 * Real Time Physics-Based Animation (*Jan 2017-June 2017*)
   * Implemented various physics-based simulation methods, including Mass Spring Systems, Finite Element Method
   * Designed framework to show 3D animation scenes with modern OpenGL and Qt GUI libruary
+
+
+
 * Apply Quaternion on Rotation-Invariant Deformation  (*Nov 2016-Jan 2017*)
   * Improve the algorithm of Linear Rotation-Invariant mesh deformation with the use of quaternion
 
@@ -43,6 +48,8 @@ Linear Algebra (95/100), Probability & Statistics (98/100), Optics & Atomic Phys
 * Apply Machine Learning on TETRIS (*Dec 2015-May 2016*)
   * Applied reinforcement learning, cross-entropy method and neuron network methods on the game *Tetris*
   * Deployed the learning agent onto a Linux cloud server and obtained extraordinary result
+
+![Description Reconstruction](https://robert-lu.github.io/image/desc_tetris.png)
 
 ##  AWARDS
 
