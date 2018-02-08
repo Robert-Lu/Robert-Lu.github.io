@@ -1,6 +1,6 @@
 # Online CV
 
-(get [PDF]() version)
+(get [PDF](https://robert-lu.github.io/Wuyue_CV_(online_version).pdf) version)
 
 ## EDUCATION & PROFESSIONAL BACKGROUND
 
