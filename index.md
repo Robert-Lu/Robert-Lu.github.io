@@ -34,6 +34,8 @@ Keen interest in the technology of **Computer Graphics**, especially in
   * Applied active contour model on CNN feature maps for medical image segmentation
   * Built online training framework and implemented active contour model as a special layer
 
+![Description CSST](https://robert-lu.github.io/image/desc_csst.png)
+
 ##### **Computational Biomedicine Imaging & Modeling Center at Rutgers University** | Summer Research Internship
 
 *Advisor: **Mubbasir Kapadia**, Assistant Professor, Computer Science Department, Rutgers University*
@@ -55,21 +57,19 @@ Keen interest in the technology of **Computer Graphics**, especially in
 
 ![Description Reconstruction](https://robert-lu.github.io/image/desc_recons.png)
 
-* Apply Quaternion on Rotation-Invariant Deformation  (*Nov 2016-Jan 2017*)
-  * Improve the algorithm of Linear Rotation-Invariant mesh deformation with the use of quaternion
-
 ## PROJECTS
 
-##### Real Time Physics-Based Animation (*Jan 2017-May 2017*)
-* Implemented physics-based simulation methods, including Mass Spring Systems, Finite Element Method
+#### Real Time Physics-Based Animation (*Jan 2017-May 2017*)
 
+* Implemented physics-based simulation methods, including Mass Spring Systems, Finite Element Method
 * Designed visualization framework for 3D animations with OpenGL and Qt GUI library
 
-#####  Apply Machine Learning on TETRIS (*Dec 2015-May 2016*)
-  * Applied reinforcement learning, cross-entropy method and neuron network methods on the game *Tetris*
-  * Deployed the learning agent onto a Linux cloud server and obtained extraordinary result
+####  Apply Machine Learning on TETRIS (*Dec 2015-May 2016*)
 
-![Description Reconstruction](https://robert-lu.github.io/image/desc_tetris.png)
+* Applied reinforcement learning and decision tree algorithm on the game Tetris
+* Deployed the learning agent onto a Linux cloud server and obtained wonderful result
+
+![Description ML](https://robert-lu.github.io/image/desc_tetris.png)
 
 ##  AWARDS
 
@@ -78,7 +78,6 @@ Keen interest in the technology of **Computer Graphics**, especially in
 
 ## SKILL SET
 
-**Programming Skills**: more than 7 years programming experience, solid expertise in C++ (>80k lines), experienced in Java, Python and OpenGL Shader Language (GLSL), adept in modern OpenGL pipeline, Qt GUI library, MATLAB and Linux
+**Programming Skills**: more than 7 years programming experience, solid expertise in C++ (>50k lines), experienced in Java, Python (adept in libraries like numpy, sklearn and tensorflow) and OpenGL Shader Language (GLSL), adept in modern OpenGL pipeline, Qt GUI library, MATLAB and Linux
 
-**Mathematical Skills**: familiar with linear algebra and computational geometry, experienced in combining theory with practice
-
+**Mathematical Skills**: expertise in linear algebra, probability, machine learning and computational geometry
