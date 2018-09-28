@@ -1,6 +1,6 @@
 # Online CV
 
-(get [PDF](https://robert-lu.github.io/Wuyue_CV_(online_version).pdf) version)
+Last Update: Sept 21, 2018 	([get PDF version](https://robert-lu.github.io/Wuyue_CV_online_version.pdf))
 
 ## EDUCATION
 
