@@ -84,10 +84,3 @@ Keen interest in the technology of **Computer Graphics**, especially in
 
 **Mathematical Skills**: expertise in linear algebra, probability, machine learning and computational geometry
 
-## PHOTOS
-
-| ![]() |      |
-| ----- | ---- |
-|       |      |
-|       |      |
-
