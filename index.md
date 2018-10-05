@@ -9,6 +9,7 @@ Last Update: Sept 21, 2018 	([get PDF version](https://robert-lu.github.io/Wuyue
 **GPA**(Overall): **3.92/4.30** (**Top 1** in the department) 
 
 **Related courses**:  
+
 * Programming I (99/100), 
 * Programming II (100/100), 
 * Calculus (95/100), 
@@ -16,6 +17,7 @@ Last Update: Sept 21, 2018 	([get PDF version](https://robert-lu.github.io/Wuyue
 * Probability & Statistics (98/100), 
 * Optics & Atomic Physics (100/100), 
 * Artificial Intelligence (90/100)
+* Principles and Techniques of Compiler (90/100) 
 
 ## RESEARCH INTEREST
 
@@ -81,3 +83,11 @@ Keen interest in the technology of **Computer Graphics**, especially in
 **Programming Skills**: more than 7 years programming experience, solid expertise in C++ (>50k lines), experienced in Java, Python (adept in libraries like numpy, sklearn and tensorflow) and OpenGL Shader Language (GLSL), adept in modern OpenGL pipeline, Qt GUI library, MATLAB and Linux
 
 **Mathematical Skills**: expertise in linear algebra, probability, machine learning and computational geometry
+
+## PHOTOS
+
+| ![]() |      |
+| ----- | ---- |
+|       |      |
+|       |      |
+
