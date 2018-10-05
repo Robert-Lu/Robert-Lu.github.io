@@ -23,7 +23,7 @@ Last Update: Sept 21, 2018 	([get PDF version](https://robert-lu.github.io/Wuyue
 
 Keen interest in the technology of **Computer Graphics**, especially in 
 * Rendering techniques, 
-* Physical based animation (like fluid & cloth simulation),
+* Physically based animation (like fluid & cloth simulation),
 * Surface modeling (like surface reconstruction & deformation).
 
 ## RESEARCH  EXPERIENCE
