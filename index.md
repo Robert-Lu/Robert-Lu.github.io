@@ -1,23 +1,33 @@
 # Online CV
 
-Last Update: Sept 21, 2018 	([get PDF version](https://robert-lu.github.io/Wuyue_CV_online_version.pdf))
+Last Update: Nov 6, 2018 	([get PDF version](https://robert-lu.github.io/Wuyue_CV_online_version.pdf))
 
 ## EDUCATION
 
 **Bachelor's Degree in Computer Science, University of Science and Technology of China (USTC)**
 
-**GPA**(Overall): **3.92/4.30** (**Top 1** in the department) 
+**GPA**(Overall): **3.92/4.30** (**Top 1**/132 in the department) 
 
 **Related courses**:  
 
 * Programming I (99/100), 
+
 * Programming II (100/100), 
+
 * Calculus (95/100), 
+
 * Linear Algebra (95/100), 
+
 * Probability & Statistics (98/100), 
+
 * Optics & Atomic Physics (100/100), 
+
+* Operating Systems [H] (98/100),
+
+* Principles and Techniques of Compiler [H] (90/100),
+
 * Artificial Intelligence (90/100)
-* Principles and Techniques of Compiler (90/100) 
+
 
 ## RESEARCH INTEREST
 
@@ -25,6 +35,12 @@ Keen interest in the technology of **Computer Graphics**, especially in
 * Rendering techniques, 
 * Physically based animation (like fluid & cloth simulation),
 * Surface modeling (like surface reconstruction & deformation).
+
+## AWARDS
+
+- Academic First Scholarship 2016 (**Top 5%** in the department)
+- National Scholarship 2017 (**Top 2%** in the department)
+- Guo Moruo Scholarship 2018 (**The most prestigious scholarship** awarded by USTC)
 
 ## RESEARCH  EXPERIENCE
 
@@ -73,14 +89,17 @@ Keen interest in the technology of **Computer Graphics**, especially in
 
 ![Description ML](https://robert-lu.github.io/image/desc_tetris.png)
 
-##  AWARDS
-
-* Academic First Scholarship 2016 (**Top 5%** in the department)
-* National Scholarship 2017 (**Top 2%** in the department)
-
 ## SKILL SET
 
 **Programming Skills**: more than 7 years programming experience, solid expertise in C++ (>50k lines), experienced in Java, Python (adept in libraries like numpy, sklearn and tensorflow) and OpenGL Shader Language (GLSL), adept in modern OpenGL pipeline, Qt GUI library, MATLAB and Linux
 
 **Mathematical Skills**: expertise in linear algebra, probability, machine learning and computational geometry
 
+**English Skills**: TOEFL iBT: 109 (R:28 L:30 S:25 W:26); GRE: 328(V:158 Q:170) + AW:3.5
+
+## PHOTO
+<img src="https://robert-lu.github.io/image/photo/VISA.JPG" width="33%">
+
+![fig:ucla](https://robert-lu.github.io/image/photo/UCLA.jpg)
+
+![fig:csst](https://robert-lu.github.io/image/photo/CSST.png)
