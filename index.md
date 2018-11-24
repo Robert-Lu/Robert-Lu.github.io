@@ -48,8 +48,6 @@ Keen interest in the technology of **Computer Graphics**, especially in
   * Applied active contour model on CNN feature maps for medical image segmentation
   * Built online training framework and implemented active contour model as a special layer
 
-![Description CSST](https://robert-lu.github.io/image/desc_csst.png)
-
 ##### **Computational Biomedicine Imaging & Modeling Center at Rutgers University** | Summer Research Internship
 
 *Advisor: **Mubbasir Kapadia**, Assistant Professor, Computer Science Department, Rutgers University*
