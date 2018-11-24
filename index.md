@@ -1,6 +1,6 @@
 # Online CV
 
-Last Update: Nov 6, 2018 	([get PDF version](https://robert-lu.github.io/Wuyue_CV_online_version.pdf))
+Last Update: Nov 23, 2018 	([get PDF version](https://robert-lu.github.io/Wuyue_CV_online_version.pdf))
 
 ## EDUCATION
 
@@ -11,23 +11,19 @@ Last Update: Nov 6, 2018 	([get PDF version](https://robert-lu.github.io/Wuyue_C
 **Related courses**:  
 
 * Programming I (99/100), 
-
 * Programming II (100/100), 
-
 * Calculus (95/100), 
-
 * Linear Algebra (95/100), 
-
 * Probability & Statistics (98/100), 
-
 * Optics & Atomic Physics (100/100), 
-
 * Operating Systems [H] (98/100),
-
 * Principles and Techniques of Compiler [H] (90/100),
-
 * Artificial Intelligence (90/100)
 
+## PUBLICATIONS
+
+* Hatamizadeh, A., Hoogi, A., **Lu, W.** and Terzopoulos, D., Nov. 2018, *A Novel Deep Learning-based Energy Model for Image Segmentation*. (Under Review)
+* **Lu, W**. and Liu, L., Nov. 2018, *Surface Reconstruction via Cooperative Evolutions* (Under Review)
 
 ## RESEARCH INTEREST
 
