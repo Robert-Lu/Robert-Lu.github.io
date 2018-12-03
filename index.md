@@ -22,8 +22,8 @@ Last Update: Nov 23, 2018 	([get PDF version](https://robert-lu.github.io/Wuyue_
 
 ## PUBLICATIONS
 
-* Hatamizadeh, A., Hoogi, A., **Lu, W.** and Terzopoulos, D., Nov. 2018, *A Novel Deep Learning-based Energy Model for Image Segmentation*. (Under Review)
-* **Lu, W**. and Liu, L., Nov. 2018, *Surface Reconstruction via Cooperative Evolutions* (Under Review)
+* Hatamizadeh*,*  A., Hoogi*,* A., **Lu, W.**, Sengupta*,* D., Wilcox*,* B., Rubin*,* D. and Terzopoulos*,* D., [*Anonymous Submission*] (Submitted to a  **Top Conference**, *Under review*)
+* **Lu, W.** and Liu*,* L., *Surface Reconstruction via Cooperative Evolutions* (Submitted to **CGF**, *Under review*)
 
 ## RESEARCH INTEREST
 
@@ -46,7 +46,7 @@ Keen interest in the technology of **Computer Graphics**, especially in
 
 * Medical Image Segmentation with CNN and Active Contour Model (July 2018-Sept 2018)
   * Applied active contour model on CNN feature maps for medical image segmentation
-  * Built online training framework and implemented active contour model as a special layer
+  * Built training and segmentation framework, and submitted a paper to a top conference (as third author)
 
 ##### **Computational Biomedicine Imaging & Modeling Center at Rutgers University** | Summer Research Internship
 
