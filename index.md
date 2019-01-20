@@ -1,6 +1,6 @@
 # Online CV
 
-Last Update: Nov 23, 2018 	([get PDF version](https://robert-lu.github.io/Wuyue_CV_online_version.pdf))
+Last Update: Jan, 2019 	([get PDF version](https://robert-lu.github.io/Wuyue_CV_online_version.pdf))
 
 ## EDUCATION
 
@@ -48,16 +48,6 @@ Keen interest in the technology of **Computer Graphics**, especially in
   * Applied active contour model on CNN feature maps for medical image segmentation
   * Built training and segmentation framework, and submitted a paper to a top conference (as third author)
 
-##### **Computational Biomedicine Imaging & Modeling Center at Rutgers University** | Summer Research Internship
-
-*Advisor: **Mubbasir Kapadia**, Assistant Professor, Computer Science Department, Rutgers University*
-
-* GPU acceleration for Crowd Simulation and Dynamic Path-Planning (*July 2017-Sept 2017*)
-  * Implemented path-planning algorithms on GPU with CUDA
-  * Integrated GPU accelerated code with crowd simulation methods and the *SteerSuite* library
-
-![Description Steer](https://robert-lu.github.io/image/desc_steer.png)
-
 ##### **Graphics & Geometric Computing Laboratory (GCL) at USTC** | Research Leader
 
 *Advisor: **Ligang Liu**, Professor, School of Mathematical Sciences, USTC*
@@ -68,6 +58,16 @@ Keen interest in the technology of **Computer Graphics**, especially in
   * Finished paper Surface Reconstruction via Cooperative Evolutions (to be submitted to CGF, as **first author**)
 
 ![Description Reconstruction](https://robert-lu.github.io/image/desc_recons.png)
+
+##### **Computational Biomedicine Imaging & Modeling Center at Rutgers University** | Summer Research Internship
+
+*Advisor: **Mubbasir Kapadia**, Assistant Professor, Computer Science Department, Rutgers University*
+
+* GPU acceleration for Crowd Simulation and Dynamic Path-Planning (*July 2017-Sept 2017*)
+  * Implemented path-planning algorithms on GPU with CUDA
+  * Integrated GPU accelerated code with crowd simulation methods and the *SteerSuite* library
+
+![Description Steer](https://robert-lu.github.io/image/desc_steer.png)
 
 ## PROJECTS
 
